@@ -71,4 +71,4 @@ def listener():
 
 if __name__ == '__main__':
     listener()
-    rospy.spin()asdffffffffffffffffffffffffffffffffffffff
+    rospy.spin()
